@@ -1,5 +1,3 @@
-print("hello there")
+# Greetings!
 
-I am CorruptedPlazma, or better known as just Plazma. There is not much about me that is interesting or special, I use linux, I like experimenting with things to see how it works, and...
-
-I've gotten myself carried away already with these details.
+I am Plazma, a graphic designer, learning programmer, and a bit of a trol :trollface:
